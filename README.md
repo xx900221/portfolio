@@ -1,5 +1,5 @@
 # portfolio
-這是我歷年製作的作品
+團隊歷年製作的作品 本人負責後端以及資料庫及架構設計
 
 淡江大橋第三標工程 完成於2019-05-11 : http://ksecodb.com/ksecodb/index.php/Welcome/dj_index
 
