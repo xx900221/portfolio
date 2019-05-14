@@ -11,6 +11,8 @@
 
 美麗蓮 line bot 推波訊息系統 完成於 2018-07-31 :
 
+[![Audi R8](https://github.com/xx900221/portfolio/blob/master/merry.PNG)](https://www.youtube.com/watch?v=zWBZG1tUp-U&feature=youtu.be "美麗蓮")
+
 ![image](https://github.com/xx900221/portfolio/blob/master/linebot.jpg)
 
 美麗蓮 line bot 
